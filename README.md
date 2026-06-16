@@ -27,6 +27,7 @@
 ---
 
 <!-- ABOUT ME — fun YAML style -->
+
 ## 🧬 `whoami`
 
 ```yaml
@@ -53,6 +54,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 ---
 
 <!-- LIVE PROJECTS -->
+
 ## 🔥 What I'm Shipping Right Now
 
 <table>
@@ -60,6 +62,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 <td width="50%">
 
 ### 🏥 WONDRx
+
 > Production healthcare AI platform
 
 - 3 specialized chatbots: **Doctor · Consumer · Provider**
@@ -73,6 +76,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 <td width="50%">
 
 ### 🦾 Snake Robotic Arm
+
 > Doc Ock-inspired hyper-redundant robot
 
 - Cable-driven, **all servos at base** — clean snake motion
@@ -88,6 +92,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 <td width="50%">
 
 ### 🤖 ROS2 SLAM Bot
+
 > Autonomous navigation proof-of-concept
 
 - 3-wheel differential drive robot
@@ -100,6 +105,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 <td width="50%">
 
 ### 📦 Logistics LLM @ Softsensor AI
+
 > Fleet intelligence at scale
 
 - LLM-powered driver performance & vehicle efficiency analysis
@@ -115,6 +121,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 ---
 
 <!-- TECH STACK -->
+
 ## 🛠️ Arsenal
 
 <div align="center">
@@ -162,6 +169,7 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 ---
 
 <!-- GITHUB STATS -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -181,11 +189,12 @@ ask_me_about: ["LangChain", "FastAPI", "ROS2", "GenAI pipelines", "RAG systems"]
 ---
 
 <!-- CONTRIBUTION SNAKE — setup instructions below -->
+
 ## 🐍 Contribution Snake
 
 > **Setup:** Go to your repo → Actions → New Workflow → paste the YAML below → Run it once → done!
 
-```yaml
+<!-- ```yaml
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 on:
@@ -207,7 +216,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+``` -->
 
 <!-- After setup, uncomment these lines: -->
 <!-- <picture>
@@ -219,17 +228,19 @@ jobs:
 ---
 
 <!-- CERTIFICATIONS -->
+
 ## 🏅 Certifications
 
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| ☁️ | **DP-100** — A-Z Machine Learning on Azure | Microsoft |
-| 🦜 | **LangChain for LLM Application Development** | Coursera / DeepLearning.AI |
-| 📊 | **MSBI, SSIS, SSRS & SSAS** | Udemy |
+| Badge | Certification                                 | Issuer                     |
+| ----- | --------------------------------------------- | -------------------------- |
+| ☁️    | **DP-100** — A-Z Machine Learning on Azure    | Microsoft                  |
+| 🦜    | **LangChain for LLM Application Development** | Coursera / DeepLearning.AI |
+| 📊    | **MSBI, SSIS, SSRS & SSAS**                   | Udemy                      |
 
 ---
 
 <!-- EXPERIENCE TIMELINE -->
+
 ## 💼 Career Timeline
 
 ```
